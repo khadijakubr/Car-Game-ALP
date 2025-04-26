@@ -18,7 +18,6 @@ No installation needed — just click and play!
 - Class-based game architecture
 - Collision detection
 - Event handling
-- Dynamic difficulty scaling
 
 Feel free to explore the code, give feedback, or try the game yourself!
 
